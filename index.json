@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "jinja-autodoc",
+  "versions": [
+    {
+      "commit": "b2aaf9fc0e00eff3a03b25b819c111d504e92a5c",
+      "tag": "0.2.0",
+      "parsed_at": "2026-11-06T18:18:40.777495+00:00"
+    }
+  ]
+}
