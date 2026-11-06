@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/jinja-autodoc/commit/b2aaf9fc0e00eff3a03b25b819c111d504e92a5c",
       "git:hexsha": "b2aaf9fc0e00eff3a03b25b819c111d504e92a5c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.0",
+      "repolex:parsedAt": "2026-11-06T18:18:40.775512+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/jinja-autodoc/commit/ecba2dc869f930d1003a299f24a0ea2648ecb22d",
